@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+output/
+temp/
+*.wav
+ffmpeg_bin/
+ffmpeg.zip
+ffmpeg_temp/
